@@ -1,10 +1,14 @@
-body {
-    background-color: #c8ff8096;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    align-content: center;
-    text-align: center;
+html ,body {
+    height: 100%;
+    text-align:center;
+    margin: 0px;
+    padding: 0px;
+    background: #c4df87;
+    font-size: 11px;
+    font-weight: 400;
+    color: #000000;
+    font-family: "Inter", sans-serif;
 }
-
 .welcome-title {
    text-align: center;
 }
@@ -15,4 +19,66 @@ a.Github {
     align-content: center;
 
 
+}
+
+.github-icon {
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+.reach-me {
+    font-size: 20px;
+    margin-top: 10px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.reach-me-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 70px;
+}
+
+
+.dog-img {
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+   
+   
+}
+
+
+.slack-icon {
+    width: 50px;
+    height: 50px;
+
+
+}
+
+
+
+.about-me {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+
+
+
+.inter-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.this-is-dog {
+    font-size : 17px;
 }
