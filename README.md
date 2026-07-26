@@ -16,3 +16,13 @@ I added an picture of my dog i tryed to make the picture on the left but thene i
 In future i will add more stuff to the page like some estereggs or more accounts to the reach me 
 
 I added two new pages with other projects that i made or i work on and the other page is events that im on 
+
+
+
+
+
+
+------
+!!!!Credits!!!!
+
+Navbar: https://www.youtube.com/watch?v=f3uCSh6LIY0
